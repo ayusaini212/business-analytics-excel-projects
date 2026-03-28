@@ -30,8 +30,7 @@ The dataset has 15 products across 6 suppliers and covers everything from profit
 ---
 
 ### 📸 Dashboard Preview
-
-![Project 3 Dashboard]<img width="893" height="602" alt="Screenshot 2026-03-28 132015" src="https://github.com/user-attachments/assets/4312b3cc-3bf2-43c0-9ba9-a1c605a71f98" />
+<img width="893" height="602" alt="Screenshot 2026-03-28 132015" src="https://github.com/user-attachments/assets/4312b3cc-3bf2-43c0-9ba9-a1c605a71f98" />
 
 
 > *Interactive dashboard with slicers— filter by supplier to see how metrics change*
@@ -103,8 +102,7 @@ This was my first proper end-to-end Excel project. The goal was to build somethi
 ---
 
 ### 📸 Dashboard Preview
-
-![Project 2 Dashboard]---<img width="1171" height="579" alt="Screenshot 2026-03-28 140405" src="https://github.com/user-attachments/assets/bab0e516-e640-4547-9a49-96c7a35ce6d8" />
+<img width="1171" height="579" alt="Screenshot 2026-03-28 140405" src="https://github.com/user-attachments/assets/bab0e516-e640-4547-9a49-96c7a35ce6d8" />
 
 
 ### 🔍 What I Built
@@ -142,7 +140,7 @@ This was my first proper end-to-end Excel project. The goal was to build somethi
 
 ## 🙋 About Me
 
-I'm Ayush Saini, based in Jaipur. I've been working in operations at Onixx Studio — a digital marketing agency — where I manage lead data, filter potential clients, and handle day-to-day business operations.
+I'm Ayush Saini, based in Gurugram. I've been working in operations at Onixx Studio — a digital marketing agency — where I manage lead data, filter potential clients, and handle day-to-day business operations.
 
 These projects came out of wanting to go deeper into the data side of operations. I'm currently learning SQL and Power BI to add to what I can do with Excel.
 
