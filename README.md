@@ -2,7 +2,7 @@
 
 **By Ayush Saini | Operations & Data Analyst**
 
-🔗 [LinkedIn — Ayush Saini](https://www.linkedin.com/in/ayush-saini-79191a3ba) · 📧 Open to Operations Analyst & Business Analyst roles in Delhi NCR
+🔗 [LinkedIn — Ayush Saini](https://www.linkedin.com/in/ayush-saini-79191a3ba) · 📧 Open to Operations Analyst & Business Analyst roles
 
 ---
 
@@ -62,11 +62,11 @@ The dataset has 15 products across 6 suppliers and covers everything from profit
 
 ### 📊 Charts Built
 
-- Bar chart — Top 10 products by profit
+- Stacked chart — Top 10 products by profit
 - Scatter plot — Cost per unit vs Profit margin (pricing efficiency)
-- Donut chart — Supplier profit contribution breakdown
-- Bar chart — Category-wise Revenue vs Total Profit comparison
+- Bar graph — Supplier profit contribution breakdown
 - Pie chart — Dead stock vs Active stock distribution
+- Bar chart — Category-wise Revenue vs Total Profit comparison
 
 ---
 
