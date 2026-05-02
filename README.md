@@ -29,6 +29,13 @@ The dataset has 15 products across 6 suppliers and covers everything from profit
 
 ---
 
+## 📂 Project 4 - Retail sales Analysis & Business tactics
+
+An analysis which is based on real structured data with 10,000 retail transactions using SQL and Power BI — This project combined SQL for data analysis and Power BI for visualization — my first project using both tools together on real external data.
+
+### 📸 Dashboard Preview
+
+
 ### 📸 Dashboard Preview
 <img width="893" height="602" alt="Screenshot 2026-03-28 132015" src="https://github.com/user-attachments/assets/4312b3cc-3bf2-43c0-9ba9-a1c605a71f98" />
 
