@@ -1,7 +1,7 @@
 # Project 4 — Retail Sales & Operations Performance Analysis
 
 **Tools Used:** SQL (DB Browser SQLite) · Power BI  
-**Dataset:** US Retail Superstore — 9,995 transactions · 22 columns · 4 regions · 2014 to 2017  
+**Dataset:** US Retail Superstore — 9,995 transactions · 22 columns · 4 regions · 2022 to 2025
 **Skills:** Data Analysis · SQL Querying · DAX Measures · Dashboard Design · Business Insights
 
 ---
@@ -32,7 +32,7 @@ The main question I was trying to answer: **why is overall profit margin only 12
 | Total Profit | $286,398 |
 | Overall Margin | 12.5% |
 | Avg Discount | 15.6% |
-| Time Period | 2014 — 2017 |
+| Time Period | 2022 — 2025 |
 | Regions | West, East, Central, South |
 | Categories | Technology, Furniture, Office Supplies |
 
