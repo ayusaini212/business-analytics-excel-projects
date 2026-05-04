@@ -29,41 +29,6 @@ The dataset has 15 products across 6 suppliers and covers everything from profit
 
 ---
 
-## 📂 Project 4 - Retail sales Analysis & Business tactics
-
-An analysis which is based on real structured data with 10,000 retail transactions using SQL and Power BI — This project combined SQL for data analysis and Power BI for visualization — my first project using both tools together on real external data.
-
-### 📸 Dashboard Preview
-
-
-
----
-
-### 🔍 What I Analyzed
-
-***Sales analysis***
-— Analyzed 10,000 retail transactions using SQL and Power BI — here's what the data showed:
-— Overall profit margin is only 12.47% — well below healthy retail benchmark
-— West region drives the most revenue at $725K — South significantly underperforms
-— Technology is the top category but all three categories are surprisingly close
-— Standard Class handles 59% of orders — premium shipping is heavily underutilized
-
-**Region Performance**
-— Analyzed which region driving sales from US
-— West region drives the most revenue at $725K — South significantly underperforms 
-— Showed all region performance though a map
-
-**Discount  impact**
-- flagged products that are affecting the making sales but affecting the profit
-
-
-
-
-
-
-
-
-
 ### 📸 Dashboard Preview
 <img width="893" height="602" alt="Screenshot 2026-03-28 132015" src="https://github.com/user-attachments/assets/4312b3cc-3bf2-43c0-9ba9-a1c605a71f98" />
 
