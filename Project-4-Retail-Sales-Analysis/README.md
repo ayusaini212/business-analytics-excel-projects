@@ -191,20 +191,6 @@ GROUP BY Returned;
 
 ---
 
-## Power BI Dashboard — Visuals Built
-
-| Visual | Type | What It Shows |
-|---|---|---|
-| KPI Cards | Cards | Total Sales, Total Profit, Total Orders, Overall Margin % |
-| Monthly Trend | Line Chart | Revenue by month across 2014-2017 — shows seasonality |
-| Regional Performance | Bar Chart | Revenue comparison across West, East, Central, South |
-| Category Sales | Bar Chart | Technology vs Furniture vs Office Supplies |
-| Ship Mode Distribution | Donut Chart | Order share by shipping method |
-| Top 7 Products | Bar Chart | Highest revenue products |
-| US State Map | Filled Map | Revenue by state — color intensity shows performance |
-| Region Slicer | Button Slicer | Filter entire dashboard by region |
-
----
 
 ## Key Business Insights
 
@@ -238,7 +224,7 @@ GROUP BY Returned;
 📁 Project-4-Retail-Sales-Analysis/
    └── project4_sales_analysis.sql     ← All SQL queries
    └── project4_dashboard.png          ← Power BI dashboard screenshot
-   └── project4_dashboard.pbix         ← Power BI file (if uploaded)
+   └── project4_dashboard.pbix         ← Power BI file
 ```
 
 ---
