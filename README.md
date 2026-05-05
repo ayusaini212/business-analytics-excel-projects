@@ -30,7 +30,8 @@ The dataset has 15 products across 6 suppliers and covers everything from profit
 ---
 
 ### 📸 Dashboard Preview
-<img width="893" height="602" alt="Screenshot 2026-03-28 132015" src="https://github.com/user-attachments/assets/4312b3cc-3bf2-43c0-9ba9-a1c605a71f98" />
+<img width="1029" height="545" alt="Screenshot 2026-05-05 112915" src="https://github.com/user-attachments/assets/3f08861c-62d0-4c58-a0c6-670be96b6c85" />
+
 
 
 > *Interactive dashboard with slicers— filter by supplier to see how metrics change*
