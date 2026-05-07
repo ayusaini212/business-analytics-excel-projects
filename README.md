@@ -2,7 +2,7 @@
 
 **By Ayush Saini | Operations & Data Analyst**
 
-🔗 [LinkedIn — Ayush Saini](https://www.linkedin.com/in/ayush-saini-79191a3ba) · 📧 Open to Operations Analyst & Business Analyst roles
+🔗 [LinkedIn — Ayush Saini](https://www.linkedin.com/in/ayusaini) · 📧 Open to Operations Analyst & Business Analyst roles
 
 ---
 
@@ -148,6 +148,6 @@ These projects came out of wanting to go deeper into the data side of operations
 If you're hiring for operations analyst or business analyst roles in Delhi NCR, feel free to reach out.
 
 📧 ayushajmera2004@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/ayush-saini-79191a3ba)
+🔗 [LinkedIn](https://www.linkedin.com/in/ayusaini)
 
 ---
