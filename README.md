@@ -1,4 +1,4 @@
-# 📊 Inventory & Business Analytics Projects — Excel, power BI, SQL
+# 📊 Data & Business Analytics Projects — Excel, power BI, SQL
 
 **By Ayush Saini | Operations & Data Analyst**
 
