@@ -278,6 +278,7 @@ GROUP BY Returned;
 
 
 
+
 ## 🗂️ Project 1 — Inventory Profitability & Operations Dashboard
 
 This is the more advanced one. I wanted to go beyond just tracking stock — I wanted to understand **which products are actually making money, which suppliers are worth working with, and where the business is quietly losing cash.**
