@@ -20,11 +20,11 @@ first projects is built entirely in Excel — from raw data to pivot tables to i
 ## 📁 Projects Overview
 
 | Project 2 — Retail sales & operations performance dashboard  | covering revenue, profit, discounting behavior, shipping performance, and regional sales patterns |
-| Project 3 — Inventory Profitability & Operations Dashboard | Profitability analysis, dead stock detection, supplier performance | Advanced formulas, Scatter plot, Supplier scorecard, Business insights |
+| Project 1 — Inventory Profitability & Operations Dashboard | Profitability analysis, dead stock detection, supplier performance | Advanced formulas, Scatter plot, Supplier scorecard, Business insights |
 
 ---
 
-## 🗂️ Project 3 — Inventory Profitability & Operations Dashboard
+## 🗂️ Project 1 — Inventory Profitability & Operations Dashboard
 
 This is the more advanced one. I wanted to go beyond just tracking stock — I wanted to understand **which products are actually making money, which suppliers are worth working with, and where the business is quietly losing cash.**
 
