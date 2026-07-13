@@ -11,7 +11,8 @@
 This repository contains two business analytics projects I built while learning Excel and business analytics with a focus on operations and supply chain roles.
 
 second project is built in power bi which is a retail sales transaction data - where i use powwer query, DAX formulas and suggested requirements agains business purposes and write meanigful insights.
-one projects is built entirely in Excel — from raw data to pivot tables to interactive dashboards with real business insights. No fancy tools, just structured thinking and clean execution.
+
+first projects is built entirely in Excel — from raw data to pivot tables to interactive dashboards with real business insights. No fancy tools, just structured thinking and clean execution.
 
 
 ---
