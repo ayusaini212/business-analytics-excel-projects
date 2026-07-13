@@ -96,54 +96,7 @@ These are the actual findings I wrote on the dashboard — not just describing t
 ---
 
 
-## 🗂️ Project 2 — Inventory Management Dashboard
 
-This was my first proper end-to-end Excel project. The goal was to build something that actually helps someone manage inventory — not just a table, but a working system with alerts, risk flags, and supplier analysis.
-
----
-
-### 📸 Dashboard Preview
-<img width="1171" height="579" alt="Screenshot 2026-03-28 140405" src="https://github.com/user-attachments/assets/bab0e516-e640-4547-9a49-96c7a35ce6d8" />
-
-
-### 🔍 What I Built
-
-- Full inventory dataset with Cost per Unit, Sales per Month, Quantity, and Reorder Level
-- Automated Stock Status — shows "Stock OK" or "Stock Needed" based on live quantity vs reorder level
-- Inventory Risk Classification — labels each product as High / Medium / Safe based on months of stock remaining
-- Calculated Inventory Value, Restock Cost, Months of Stock Left, and Inventory Turnover for every product
-- Pivot Table analysis comparing supplier-wise cost and inventory value
-- Risk distribution chart showing proportion of High / Medium / Safe items
-- Interactive dashboard with supplier slicer and KPI summary section
-
----
-
-### 📊 KPIs Tracked
-
-- Total Inventory Value
-- Total Restock Cost
-- Number of items needing restock
-- Average months of stock across all products
-- Total number of products
-
----
-
-### 🛠️ Excel Skills Used
-
-- IF and nested IF formulas
-- Pivot Tables with supplier grouping
-- Bar and pie charts
-- Conditional formatting
-- Slicer-connected dashboard
-- KPI summary cards
-
----
-
-## 🙋 About Me
-
-I'm Ayush Saini, based in Gurugram. I've been working in operations at Onixx Studio — a digital marketing agency — where I manage lead data, filter potential clients, and handle day-to-day business operations.
-
-These projects came out of wanting to go deeper into the data side of operations. I'm currently learning SQL and Power BI to add to what I can do with Excel.
 
 If you're hiring for operations analyst or business analyst roles in Delhi NCR, feel free to reach out.
 
