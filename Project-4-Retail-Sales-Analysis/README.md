@@ -1,4 +1,4 @@
-# Project 4 — Retail Sales & Operations Performance Analysis
+# Project 2 — Retail Sales & Operations Performance Analysis
 
 **Tools Used:** SQL (DB Browser SQLite) · Power BI  
 **Dataset:** US Retail Superstore — 9,995 transactions · 22 columns · 4 regions · 2022 to 2025
@@ -18,7 +18,7 @@ The main question I was trying to answer: **why is overall profit margin only 12
 
 ## Dashboard Preview
 
-[Project 4 Dashboard]
+[Project 2 Dashboard]
 <img width="1033" height="544" alt="Screenshot 2026-05-04 125455" src="https://github.com/user-attachments/assets/638308cb-a41b-4c20-bc1f-66a4a791f3d5" />
 
 
