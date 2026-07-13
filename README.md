@@ -19,7 +19,7 @@ first projects is built entirely in Excel — from raw data to pivot tables to i
 
 ## 📁 Projects Overview
 
-| Project 2 — Inventory Management Dashboard | Stock tracking, reorder alerts, risk classification | Pivot Tables, IF formulas, KPI cards, Slicers |
+| Project 2 — Retail sales & operations performance dashboard  | covering revenue, profit, discounting behavior, shipping performance, and regional sales patterns |
 | Project 3 — Inventory Profitability & Operations Dashboard | Profitability analysis, dead stock detection, supplier performance | Advanced formulas, Scatter plot, Supplier scorecard, Business insights |
 
 ---
